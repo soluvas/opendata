@@ -8,17 +8,23 @@ gmaps = googlemaps.Client(key=os.environ['GOOGLE_API_KEY'])
 
 with open('18.-DKI-Kantor-Pelayanan-Kependudukan-dan-Pencatatan-Sipil--2015.csv', 'r') as f:
     reader = csv.reader(f)
+    rownum = 0
     for row in reader:
-        # print(row[6])
-        if row[6]:
-            # address = 'Jl. Saad 18, Bandung'
-            address = row[6] + ', Jakarta'
-            geocode_result = gmaps.geocode(address)
-            # print("%s ->" % address)
-            # pprint.pprint(geocode_result)
-            print("%s\t%s" % (geocode_result[0]['geometry']['location']['lat'], geocode_result[0]['geometry']['location']['lng']))
+        if rownum == 0:
+        
         else:
-            print("")
+            # print(row[6])
+            if row[6]:
+                # address = 'Jl. Saad 18, Bandung'
+                address = row[6] + ', Jakarta'
+                geocode_result = gmaps.geocode(address)
+                # print("%s ->" % address)
+                # pprint.pprint(geocode_result)
+                print("%s\t%s" % (geocode_result[0]['geometry']['location']['lat'], geocode_result[0]['geometry']['location']['lng']))
+            else:
+                print("")
+
+        rownum += 1
 
 exit
 
