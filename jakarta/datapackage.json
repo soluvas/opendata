@@ -1,0 +1,68 @@
+{
+  "name": "soluvas-opendata-jakarta",
+  "title": "Soluvas Open Data Jakarta",
+  "description": "Open Data from Pemerintah Provinsi Jakarta (http://data.jakarta.go.id) with additional information.",
+  "homepage": "https://github.com/soluvas/opendata",
+  "version": "2.0",
+  "license": "CC-BY-4.0",
+  "author": "Hendy Irawan <hendy@hendyirawan.com>",
+  "resources": [
+    {
+      "name": "data-alamat-kantor-tahun-2015-v2",
+      "title": "Data Alamat Kantor Tahun V",
+      "path": "18.-DKI-Kantor-Pelayanan-Kependudukan-dan-Pencatatan-Sipil--2015v2.csv"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Data Alamat Kantor Tahun 2015",
+      "web": "http://data.jakarta.go.id/dataset/data-alamat-kantor-pelayanan-pendaftaran-penduduk-dan-pencatatan-sipil-tahun-2015/resource/50112b9e-a473-4144-9508-897ad62d1b18"
+    }
+  ],
+  "schemas": {
+    "data-alamat-kantor-tahun-2015-v2": {
+      "fields": [
+        {
+          "name": "tahun",
+          "type": "integer"
+        },
+        {
+          "name": "kantor_pelayanan",
+          "type": "string"
+        },
+        {
+          "name": "nama_provinsi",
+          "type": "string"
+        },
+        {
+          "name": "nama_kabupaten/kota",
+          "type": "string"
+        },
+        {
+          "name": "nama_kecamatan",
+          "type": "string"
+        },
+        {
+          "name": "keterangan",
+          "type": "string"
+        },
+        {
+          "name": "alamat",
+          "type": "string"
+        },
+        {
+          "name": "no_telepon",
+          "type": "string"
+        },
+        {
+          "name": "lat",
+          "type": "number"
+        },
+        {
+          "name": "lon",
+          "type": "number"
+        }
+      ]
+    }
+  }
+}
