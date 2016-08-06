@@ -4,6 +4,8 @@ Open Data collections for common purposes.
 
 **Encoding**: Some Open Data we found have mixed encoding, usually `Windows-1252`. In our data sets everything is in `UTF-8`.
 
+**Metadata**: All data is described using [Data Packages](http://specs.frictionlessdata.io/data-packages/), specifically [Tabular Data Packages](http://specs.frictionlessdata.io/tabular-data-package/) for CSV files.
+
 ## Jakarta Smart City
 
 Source: http://smartcity.jakarta.go.id
