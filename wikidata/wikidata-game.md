@@ -12,7 +12,7 @@ Cara mainnya lumayan mudah koq :)
 
     ![Misalnya Aceh Barat Daya, kan masih kosong tuh geonamesId-nya](wikidata-game1.jpg)
 
-2. Kita cari deh kabupaten tersebut di geonames.org, ketemu kan, trus klik icon "A" warna merah
+2. Kita cari deh kabupaten tersebut di http://geonames.org, ketemu kan, trus klik icon "A" warna merah
 
     ![cari deh kabupaten tersebut di geonames.org](wikidata-game2.jpg)
 
