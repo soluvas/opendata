@@ -17,14 +17,16 @@ q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?state ?stateIso ?coun
     { ?locality wdt:P31 wd:Q3199141 }
     UNION
     { ?locality wdt:P31 wd:Q4272761 }
-    ?locality wdt:P1566 ?geonamesId ;
-              wdt:P131 ?state .
+    ?locality wdt:P131 ?state .
+    OPTIONAL { ?locality wdt:P1566 ?geonamesId . }
     VALUES ?place { "city" }
   }
   UNION {
     ?locality wdt:P31 wd:Q3191695 ;
           wdt:P1566 ?geonamesId ;
           wdt:P131 ?state .
+    ?locality wdt:P131 ?state .
+    OPTIONAL { ?locality wdt:P1566 ?geonamesId . }
     VALUES ?place { "town" }
   }
   ?state wdt:P300 ?stateIso ;
@@ -33,7 +35,6 @@ q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?state ?stateIso ?coun
   VALUES ?country { <http://www.wikidata.org/entity/Q252> }
   VALUES ?countryIso { "ID" }
 }
-ORDER BY ?stateIso ?localityLabel
 '''
 result = s.query(q)
 jsons = [] 
