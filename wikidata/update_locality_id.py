@@ -23,9 +23,7 @@ q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?state ?stateLabel ?st
   }
   UNION {
     ?locality wdt:P31 wd:Q3191695 ;
-          wdt:P1566 ?geonamesId ;
-          wdt:P131 ?state .
-    ?locality wdt:P131 ?state .
+              wdt:P131 ?state .
     OPTIONAL { ?locality wdt:P1566 ?geonamesId . }
     VALUES ?place { "TOWN" }
   }
@@ -35,6 +33,7 @@ q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?state ?stateLabel ?st
   VALUES ?country { <http://www.wikidata.org/entity/Q252> }
   VALUES ?countryIso { "ID" }
 }
+ORDER BY ?localityLabel
 '''
 result = s.query(q)
 jsons = [] 
@@ -50,7 +49,7 @@ with open(fn_csv, 'wb') as csvf:
       rowJson = OrderedDict([
         ('id', id),
         ('name', unicode(row[1])),
-        ('geonamesId', long(str(row[2]))),
+        ('geonamesId', long(str(row[2])) if row[2] else ''),
         ('place', unicode(row[3])),
         ('stateId', stateId),
         ('stateName', unicode(row[5])),
