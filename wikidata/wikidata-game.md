@@ -29,3 +29,7 @@ Cara mainnya lumayan mudah koq :)
     ![Di bagian Identifiers, klik add](wikidata-game5.jpg)
 
 Ada yang berminat ? 😁 Dengan berpartisipasi di game ini teman-teman otomatis sudah menyumbang open data untuk dapat dimanfaatkan di Indonesia ^_^
+
+Tidak perlu bikin akun apa pun untuk mengikutinya. Tapi kalau teman-teman ingin kontribusi tersebut tercatat, teman-teman boleh juga membuat akun di http://wikidata.org :) seperti punya Hendy berikut ini:
+
+![Kontribusi](wikidata-game6.jpg)
