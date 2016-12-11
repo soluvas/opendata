@@ -10,22 +10,22 @@ Cara mainnya lumayan mudah koq :)
 
 1. Cari yang kosong di https://github.com/soluvas/opendata/blob/master/wikidata/locality.id.csv . Misalnya Aceh Barat Daya, kan masih kosong tuh geonamesId-nya
 
-    ![wikidata-game1.jpg](Misalnya Aceh Barat Daya, kan masih kosong tuh geonamesId-nya)
+    ![Misalnya Aceh Barat Daya, kan masih kosong tuh geonamesId-nya](wikidata-game1.jpg)
 
 2. Kita cari deh kabupaten tersebut di geonames.org, ketemu kan, trus klik icon "A" warna merah
 
-    ![wikidata-game2.jpg](cari deh kabupaten tersebut di geonames.org)
+    ![cari deh kabupaten tersebut di geonames.org](wikidata-game2.jpg)
 
 3. Ketemu deh GeoNames ID-nya
 
-    ![wikidata-game3.jpg](Ketemu deh GeoNames ID-nya)
+    ![Ketemu deh GeoNames ID-nya](wikidata-game3.jpg)
 
 4. Kamu cari kabupaten tersebut di http://wikidata.org .. nah ketemu kan, scroll ke bawah
 
-    ![wikidata-game4.jpg](cari kabupaten tersebut di http://wikidata.org)
+    ![cari kabupaten tersebut di http://wikidata.org](wikidata-game4.jpg)
 
 5. Di bagian Identifiers, klik add, pilih "GeoNames ID", masukin ID-nya, trus klik Save. Udah deh selesai! Lanjut ke kabupaten berikutnya...
 
-    ![wikidata-game5.jpg](Di bagian Identifiers, klik add)
+    ![Di bagian Identifiers, klik add](wikidata-game5.jpg)
 
 Ada yang berminat ? 😁 Dengan berpartisipasi di game ini teman-teman otomatis sudah menyumbang open data untuk dapat dimanfaatkan di Indonesia ^_^
