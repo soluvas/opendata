@@ -1,0 +1,1 @@
+COPY public.locality FROM 'locality.id.csv' ( FORMAT csv, HEADER, ENCODING 'UTF-8' );

@@ -12,7 +12,7 @@ fn_csv = 'locality.id.csv'
 fn_json = 'locality.id.json'
 
 s = sparql.Service('https://query.wikidata.org/sparql', "utf-8", "GET")
-q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?state ?stateIso ?country ?countryIso WHERE {
+q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?state ?stateLabel ?stateIso ?country ?countryIso WHERE {
   {
     { ?locality wdt:P31 wd:Q3199141 }
     UNION
@@ -42,20 +42,21 @@ csvs = []
 print('Saving %s ...' % fn_csv)
 with open(fn_csv, 'wb') as csvf:
   csvw = csv.writer(csvf, encoding='utf-8')
-  csvw.writerow(['id', 'name', 'geonamesId', 'place', 'stateId', 'stateIso', 'countryId', 'countryIso',])
+  csvw.writerow(['id', 'name', 'geonamesId', 'place', 'stateId', 'stateName', 'stateIso', 'countryId', 'countryIso',])
   for row in result.fetchall():
       id = str(row[0]).replace('http://www.wikidata.org/entity/', '')
       stateId = str(row[4]).replace('http://www.wikidata.org/entity/', '')
-      countryId = str(row[6]).replace('http://www.wikidata.org/entity/', '')
+      countryId = str(row[7]).replace('http://www.wikidata.org/entity/', '')
       rowJson = OrderedDict([
         ('id', id),
         ('name', unicode(row[1])),
         ('geonamesId', long(str(row[2]))),
         ('place', unicode(row[3])),
         ('stateId', stateId),
-        ('stateIso', unicode(row[5])),
+        ('stateName', unicode(row[5])),
+        ('stateIso', unicode(row[6])),
         ('countryId', countryId),
-        ('countryIso', unicode(row[7])),
+        ('countryIso', unicode(row[8])),
       ])
       csvw.writerow(rowJson.values())
       jsons.append(rowJson)

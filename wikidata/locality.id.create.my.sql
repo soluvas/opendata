@@ -4,6 +4,7 @@ CREATE TABLE `locality` (
   `geonamesId` VARCHAR(255) NULL,
   `place` VARCHAR(255) NOT NULL,
   `stateId` VARCHAR(255) NOT NULL,
+  `stateName` VARCHAR(255) NOT NULL,
   `stateIso` VARCHAR(255) NOT NULL,
   `countryId` VARCHAR(255) NOT NULL,
   `countryIso` VARCHAR(2) NOT NULL,
