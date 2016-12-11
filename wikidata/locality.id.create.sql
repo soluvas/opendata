@@ -1,4 +1,4 @@
-CREATE TABLE`locality` (
+CREATE TABLE `locality` (
   `id` VARCHAR(255) NOT NULL,
   `name` VARCHAR(255) NOT NULL,
   `geonamesId` VARCHAR(255) NULL,
