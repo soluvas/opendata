@@ -1,3 +1,5 @@
+# Wikidata<-GeoNames Game
+
 Teman-teman, mau game yang serius ga? ;) dan in syaa Allah bermanfaat bagi bangsa Indonesia. ^_^
 
 Dari 512 kota & kabupaten Indonesia di Wikidata, masih ada 304 yang belum tertaut ke GeoNames : https://github.com/soluvas/opendata/blob/master/wikidata/locality.id.csv
