@@ -19,7 +19,7 @@ q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?state ?stateIso ?coun
     { ?locality wdt:P31 wd:Q4272761 }
     ?locality wdt:P131 ?state .
     OPTIONAL { ?locality wdt:P1566 ?geonamesId . }
-    VALUES ?place { "city" }
+    VALUES ?place { "CITY" }
   }
   UNION {
     ?locality wdt:P31 wd:Q3191695 ;
@@ -27,7 +27,7 @@ q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?state ?stateIso ?coun
           wdt:P131 ?state .
     ?locality wdt:P131 ?state .
     OPTIONAL { ?locality wdt:P1566 ?geonamesId . }
-    VALUES ?place { "town" }
+    VALUES ?place { "TOWN" }
   }
   ?state wdt:P300 ?stateIso ;
          wdt:P17 wd:Q252 .
