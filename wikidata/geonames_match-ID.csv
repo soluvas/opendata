@@ -16,7 +16,9 @@ Q14590,Bantaeng,1650183,Kabupaten Bantaeng,-5.48333,119.98333
 Q11477,Bantul,1650117,Kabupaten Bantul,-7.9,110.36667
 Q8107,Banyuasin,1634644,Kabupaten Musi Banyuasin,-2.41667,103.75
 Q14172,Barito Kuala,1649992,Kabupaten Barito Kuala,-3.08333,114.61667
+Q14391,Barito Selatan,1649991,Kabupaten Barito Selatan,-1.86667,114.73333
 Q14190,Barito Timur,1649990,Kabupaten Barito Timur,-1.93333,115.1
+Q14209,Barito Utara,1649989,Kabupaten Barito Utara,-0.98333,115.1
 Q14593,Barru,1649975,Kabupaten Barru,-4.43333,119.68333
 Q7370,Batanghari,1649863,Kabupaten Batang Hari,-1.75,103.11667
 Q5797,Batu Bara,9821911,Batubara Regency,3.16166,99.52652
@@ -63,11 +65,14 @@ Q15814,Donggala,1645322,Kabupaten Donggala,-0.58333,119.85
 Q8112,Empat Lawang,9821958,Kabupaten Empat Lawang,3.22667,99.09256
 Q14140,Ende,9165840,Kabupaten Ende,-8.84056,121.66389
 Q14599,Enrekang,1644905,Kabupaten Enrekang,-3.5,119.86667
+Q14136,Flores Timur,1644743,East Flores Regency,-8.24224,122.96817
 Q5666,Gayo Lues,8224054,Kabupaten Gayo Lues,3.95,97.39
 Q14521,Gorontalo,6960133,Kabupaten Gorontalo,0.5728,122.2337
 Q14522,Gorontalo Utara,9165866,Kabupaten Gorontalo Utara,0.77,122.31667
+Q14192,Gunung Mas,1643597,Kabupaten Gunung Mas,-0.95,113.5
 Q19150,Halmahera Barat,9165708,Kabupaten Halmahera Barat,1.41709,127.55264
 Q19148,Halmahera Selatan,7910927,Kabupaten Halmahera Selatan,-0.3955,127.90833
+Q19144,Halmahera Tengah,1643475,Kabupaten Halmahera Tengah,0.48056,128.25
 Q19145,Halmahera Timur,9165995,Kabupaten Halmahera Timur,1.33517,128.48627
 Q14176,Hulu Sungai Selatan,1643246,Kabupaten Hulu Sungai Selatan,-2.75,115.2
 Q14173,Hulu Sungai Tengah,1643245,Kabupaten Hulu Sungai Tengah,-2.61667,115.41667
@@ -78,6 +83,7 @@ Q7605,Indragiri Hulu,1643081,Kabupaten Indragiri Hulu,-0.55,102.31667
 Q10374,Indramayu,1643077,Kabupaten Indramayu,-6.45,108.16667
 Q27458,Intan Jaya,9846664,Intan Jaya Regency,-3.41016,136.70837
 Q27477,Jayapura,1642655,Kabupaten Jayapura,-3,139.95
+Q27529,Jayawijaya,1631789,Kabupaten Jayawijaya,-4.08333,139.08333
 Q11499,Jembrana,1642584,Kabupaten Jembrana,-8.3,114.66667
 Q14602,Jeneponto,1642569,Kabupaten Jeneponto,-5.63333,119.73333
 Q26739,Kaimana,7910905,Kabupaten Kaimana,-3.66093,133.77451
@@ -93,6 +99,8 @@ Q4201892,Katingan,1640948,Kabupaten Katingan,-2.06667,113.4
 Q3182322,Kaur,9828030,Kaur Regency,-4.78179,103.36109
 Q14158,Kayong Utara,9828031,North Kayong Regency,-1.43711,110.79781
 Q10617,Kebumen,6376498,Kabupaten Kebumen,-7.63917,109.66056
+Q11084,Kediri,1640657,Kabupaten Kediri,-7.83333,112.16667
+Q27573,Keerom,8531252,Kabupaten Keerom,-3.3,140.61667
 Q10618,Kendal,6745680,Kabupaten Kendal,-7.0256,110.1685
 Q10096,Kepulauan Anambas,8740095,Kabupaten Kepulauan Anambas,3,106
 Q6038,Kepulauan Mentawai,8740094,Kabupaten Kepulauan Mentawai,1.98917,99.51889
@@ -118,6 +126,7 @@ Q14489,Kutai Barat,9828038,West Kutai Regency,-0.59417,115.51575
 Q14473,Kutai Kartanegara,9828039,Kutai Kartanegara Regency,-0.44019,116.98139
 Q14468,Kutai Timur,9846668,East Kutai Regency,1.03769,117.83112
 Q5814,Labuhanbatu,1214801,Labuhan Batu Regency,2.26667,100.1
+Q14194,Lamandau,9165993,Kabupaten Lamandau,-1.83828,111.2869
 Q8153,Lampung Barat,9166059,Kabupaten Lampung Barat,-5.14904,104.19309
 Q8147,Lampung Selatan,7862296,Kabupaten Lampung Selatan,-5.4531,104.9877
 Q8135,Lampung Tengah,1638532,Kabupaten Lampung Tengah,-4.86667,105.26667
@@ -142,6 +151,7 @@ Q14476,Malinau,8613353,Kabupaten Malinau,2.45,115.68333
 Q18935,Maluku Barat Daya,9828043,Southwest Maluku Regency,-7.8296,126.17386
 Q18849,Maluku Tenggara,1636625,Kabupaten Maluku Tenggara,-5.75,132.73333
 Q15347,Mamasa,7910939,Kabupaten Mamasa,-2.96492,119.30631
+Q27668,Mamberamo Raya,9828781,Mamberamo Raya Regency,-2.23561,137.78229
 Q27316,Mamberamo Tengah,9828820,Central Mamberamo Regency,-2.46064,138.45245
 Q12488349,Mamuju Tengah,9827966,Mamuju Regency,-2.8212,119.2662
 Q15350,Mamuju Utara,9828890,North Mamuju Regency,-1.51639,119.42139
@@ -154,6 +164,7 @@ Q12488351,Manokwari Selatan,9827967,South Manokwari Regency,-1.0798,133.96729
 Q27679,Mappi,9165710,Kabupaten Mappi,-6.49971,139.34441
 Q14611,Maros,1636028,Kabupaten Maros,-5.05,119.71667
 Q26759,Maybrat,9828956,Maybrat Regency,-1.2155,132.35092
+Q14162,Melawi,9828958,Melawi Regency,-0.33617,111.698
 Q14163,Mempawah,1630788,Kabupaten Mempawah,0.25,109.16667
 Q7379,Merangin,9828959,Merangin Regency,-2.06933,102.13303
 Q27693,Merauke,1635387,Kabupaten Merauke,-7.66667,139.66667
@@ -176,6 +187,7 @@ Q18511812,Musi Rawas Utara,9827972,North Musi Rawas Regency,-2.48533,103.29346
 Q27708,Nabire,7910937,Kabupaten Nabire,-3.54016,135.55511
 Q5746,Nagan Raya,6703019,Kabupaten Nagan Raya,4.16667,96.51667
 Q14144,Nagekeo,9828965,Nagekeo Regency,-8.8721,121.20963
+Q27724,Nduga,9828977,Nduga Regency,-4.45093,138.10089
 Q14145,Ngada,1634193,Kabupaten Ngada,-8.66667,121
 Q11108,Ngawi,6410477,Kabupaten Ngawi,-7.47444,111.33444
 Q5841,Nias,8224057,Kabupaten Nias Selatan,0.77,97.75
@@ -205,6 +217,7 @@ Q27750,Pegunungan Bintang,7910943,Kabupaten Pegunungan Bintang,-4.52167,140.2954
 Q10623,Pekalongan,6792336,Kabupaten Pekalongan,-7.0319,109.624
 Q7641,Pelalawan,9163207,Kabupaten Pelalawan,0.20822,102.18607
 Q14479,Penajam Paser Utara,9165729,Kabupaten Penajam Paser Utara,-1.25,116.83333
+Q15729116,Penukal Abab Lematang Ilir,9828027,Penukal Abab Lematang Ilir Regency,-3.21342,104.08722
 Q8144,Pesawaran,9843606,Pesawaran Regency,-5.4298,105.17899
 Q46481,Pesisir Barat,9828028,West Pesisir Regency,-5.19323,103.93976
 Q6065,Pesisir Selatan,1631300,Kabupaten Pesisir Selatan,-1.58333,100.85
@@ -263,6 +276,7 @@ Q14177,Tabalong,1625714,Kabupaten Tabalong,-1.88333,115.5
 Q11505,Tabanan,1625707,Kabupaten Tabanan,-8.43333,115.06667
 Q15844,Talaud,9828034,Talaud Islands Regency,4.31178,126.78085
 Q26810,Tambrauw,9845477,Tambrauw Regency,-0.60515,132.48962
+Q14487,Tana Tidung,8613361,Kabupaten Tana Tidung,3.55,117.25
 Q14179,Tanah Bumbu,9780988,Kabupaten Tanah Bumbu,-3.45413,115.70372
 Q6093,Tanah Datar,8594799,Kabupaten Tanah Datar,-0.4555,100.5771
 Q14178,Tanah Laut,1625166,Kabupaten Tanah Laut,-3.88333,114.86667

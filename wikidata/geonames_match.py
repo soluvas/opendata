@@ -1,4 +1,4 @@
-# GeoNames match from localities with GeoNames ID
+# Match Wikidata localities with GeoNames and output missing GeoNames ID and/or missing coordinates
 # Python 3 recommended
 # pip install unicodecsv requests
 from collections import OrderedDict
@@ -17,7 +17,7 @@ with open(fn_out, 'wb') as outf:
         csvw.writeheader()
         csvr = csv.DictReader(csvf, encoding='utf-8')
         for row in csvr:
-            if not row['geonamesId']:
+            if (not row['geonamesId']) or (not row['pointLat']):
                 gnName = ('Kabupaten ' if row['place'] == 'TOWN' else 'Kota ') + row['name']
                 print(row['id'], gnName, row['place'], row['geonamesId'])
                 
