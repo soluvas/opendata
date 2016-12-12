@@ -5,6 +5,6 @@ from config import *
 
 auth = OAuth1(api_key, api_secret, token, token_secret)
 params = {'format': 'json', 'action': 'query', 'meta': 'tokens'}
-r = requests.get(url='https://en.wikipedia.org/w/api.php', auth=auth, params=params)
+r = requests.get(url='https://www.wikidata.org/w/api.php', auth=auth, params=params)
 print(r)
 print(r.text)
