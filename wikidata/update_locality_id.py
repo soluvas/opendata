@@ -9,10 +9,11 @@ import json
 import unicodecsv as csv
 import sparql
 
-fn_csv = 'locality.id.csv'
-fn_json = 'locality.id.json'
+fn_csv = 'locality-ID.csv'
+fn_json = 'locality-ID.json'
 
 s = sparql.Service('https://query.wikidata.org/sparql', "utf-8", "GET")
+# Should return 512 rows if there are no duplicate geonamesId/point/kemendagriCode
 q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?point ?kemendagriCode ?state ?stateLabel ?stateIso ?country ?countryIso WHERE {
   {
     { ?locality wdt:P31 wd:Q3199141 }
@@ -26,11 +27,9 @@ q = '''SELECT ?locality ?localityLabel ?geonamesId ?place ?point ?kemendagriCode
               wdt:P131 ?state .
     VALUES ?place { "TOWN" }
   }
-  OPTIONAL {
-    ?locality wdt:P1566 ?geonamesId ;
-              wdt:P625 ?point ;
-              wdt:P2588 ?kemendagriCode .
-  }
+  OPTIONAL { ?locality wdt:P1566 ?geonamesId . }
+  OPTIONAL { ?locality wdt:P625 ?point . }
+  OPTIONAL { ?locality wdt:P2588 ?kemendagriCode . }
   ?state wdt:P300 ?stateIso ;
          wdt:P17 wd:Q252 .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "id", "en". }

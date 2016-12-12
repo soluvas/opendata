@@ -1,0 +1,298 @@
+id,name,geonamesId,geonamesName,lat,lon
+Q5672,Aceh Singkil,6713333,Kabupaten Aceh Singkil,2.41667,97.91667
+Q5763,Aceh Tenggara,1215632,Kabupaten Aceh Tenggara,3.36667,97.7
+Q14131,Alor,1651608,Kabupaten Alor,-8.3,124.56667
+Q27228,Asmat,9165711,Kabupaten Asmat,-5.3795,138.46344
+Q14170,Balangan,9165684,Kabupaten Balangan,-2.32314,115.62922
+Q15810,Banggai,6983688,Kabupaten Banggai,-1.2835,122.8892
+Q12488339,Banggai Laut,9846665,Banggai Laut Regency,-1.61841,123.49388
+Q8163,Bangka,1650314,Kabupaten Bangka,-1.91667,105.93333
+Q8176,Bangka Barat,9821906,West Bangka Regency,-1.95839,105.53741
+Q8173,Bangka Selatan,9821904,South Bangka Regency,-2.66803,106.01257
+Q8166,Bangka Tengah,9821905,Central Bangka Regency,-2.33989,106.1142
+Q11066,Bangkalan,1650297,Kabupaten Bangkalan,-7.05,112.93333
+Q14171,Banjar,1650231,Banjar Regency,-3.31667,115.08333
+Q14590,Bantaeng,1650183,Kabupaten Bantaeng,-5.48333,119.98333
+Q11477,Bantul,1650117,Kabupaten Bantul,-7.9,110.36667
+Q8107,Banyuasin,1634644,Kabupaten Musi Banyuasin,-2.41667,103.75
+Q14172,Barito Kuala,1649992,Kabupaten Barito Kuala,-3.08333,114.61667
+Q14190,Barito Timur,1649990,Kabupaten Barito Timur,-1.93333,115.1
+Q14593,Barru,1649975,Kabupaten Barru,-4.43333,119.68333
+Q7370,Batanghari,1649863,Kabupaten Batang Hari,-1.75,103.11667
+Q5797,Batu Bara,9821911,Batubara Regency,3.16166,99.52652
+Q10340,Bekasi,1649377,Kabupaten Bekasi,-6.24667,107.10833
+Q8164,Belitung,1649281,Kabupaten Belitung,-2.86667,107.7
+Q8169,Belitung Timur,9821907,East Belitung Regency,-2.9627,108.15216
+Q14156,Bengkayang,8740064,Kabupaten Bengkayang,1.06911,109.66393
+Q8040,Bengkulu Selatan,1649146,Kabupaten Bengkulu Selatan,-4.35,103.03333
+Q7796,Bengkulu Tengah,9821946,Central Bengkulu Regency,-3.20679,102.12616
+Q8034,Bengkulu Utara,1649145,Kabupaten Bengkulu Utara,-3.33333,102.05
+Q14395,Berau,1649040,Kabupaten Berau,2,117.3
+Q27246,Biak Numfor,8530432,Kabupaten Biak Numfor,-1.03333,136
+Q10097,Bintan,9034776,Kabupaten Bintan,0.95,104.61944
+Q5722,Bireuen,6729814,Kabupaten Bireuen,5.08333,96.58333
+Q11069,Blitar,1648579,Kabupaten Blitar,-8.13333,112.25
+Q10608,Blora,1648567,Kabupaten Blora,-7.06667,111.38333
+Q10363,Bogor,1648471,Kabupaten Bogor,-6.58333,106.71667
+Q15833,Bolaang Mongondow,1648339,Kabupaten Bolaang Mongondow,0.75,124.08333
+Q15841,Bolaang Mongondow Selatan,9821949,South Bolaang Mongondow Regency,0.40912,123.75961
+Q15834,Bolaang Mongondow Timur,9821950,East Bolaang Mongondow Regency,0.72073,124.50256
+Q15837,Bolaang Mongondow Utara,9821951,North Bolaang Mongondow Regency,0.78527,123.41766
+Q15356,Bombana,9170724,Kabupaten Bombana,-4.6257,121.81641
+Q11076,Bondowoso,6829652,Kabupaten Bondowoso,-7.9404,113.9834
+Q14595,Bone,1648256,Kabupaten Bone,-4.7,120.13333
+Q14519,Bone Bolango,9165685,Kabupaten Bone Bolango,0.50296,123.27501
+Q27262,Boven Digoel,9166001,Kabupaten Boven Digoel,-5.70519,140.36349
+Q10610,Brebes,1648064,Kabupaten Brebes,-7.05,108.9
+Q14596,Bulukumba,1647738,Kabupaten Bulukumba,-5.41667,120.23333
+Q14404,Bulungan,8613240,Kabupaten Bulungan,3,117.16667
+Q16564,Buru,9165994,Kabupaten Buru,-3.32767,126.68413
+Q16583,Buru Selatan,9821953,South Buru Regency,-3.52187,126.59271
+Q15357,Buton,10924520,Kabupaten Buton Selatan,-5.56667,122.7
+Q19745612,Buton Selatan,10924520,Kabupaten Buton Selatan,-5.56667,122.7
+Q19745487,Buton Tengah,10924541,Kabupaten Buton Tengah,-5.31667,122.33333
+Q15366,Buton Utara,9821954,North Buton Regency,-5.01457,122.93015
+Q10365,Ciamis,1647148,Kabupaten Ciamis,-7.28333,108.41667
+Q10368,Cirebon,1646169,Kabupaten Cirebon,-6.8,108.56667
+Q5801,Dairi,1215221,Kabupaten Dairi,2.86667,98.23333
+Q27386,Deiyai,9821956,Deiyai Regency,-3.94737,135.95032
+Q5804,Deli Serdang,1215200,Kabupaten Deli Serdang,3.41667,98.66667
+Q6024,Dharmasraya,9166041,Kabupaten Dharmasraya,-1.05,101.367
+Q27413,Dogiyai,9821957,Dogiyai Regency,-4.03186,135.43945
+Q15814,Donggala,1645322,Kabupaten Donggala,-0.58333,119.85
+Q8112,Empat Lawang,9821958,Kabupaten Empat Lawang,3.22667,99.09256
+Q14140,Ende,9165840,Kabupaten Ende,-8.84056,121.66389
+Q14599,Enrekang,1644905,Kabupaten Enrekang,-3.5,119.86667
+Q5666,Gayo Lues,8224054,Kabupaten Gayo Lues,3.95,97.39
+Q14521,Gorontalo,6960133,Kabupaten Gorontalo,0.5728,122.2337
+Q14522,Gorontalo Utara,9165866,Kabupaten Gorontalo Utara,0.77,122.31667
+Q19150,Halmahera Barat,9165708,Kabupaten Halmahera Barat,1.41709,127.55264
+Q19148,Halmahera Selatan,7910927,Kabupaten Halmahera Selatan,-0.3955,127.90833
+Q19145,Halmahera Timur,9165995,Kabupaten Halmahera Timur,1.33517,128.48627
+Q14176,Hulu Sungai Selatan,1643246,Kabupaten Hulu Sungai Selatan,-2.75,115.2
+Q14173,Hulu Sungai Tengah,1643245,Kabupaten Hulu Sungai Tengah,-2.61667,115.41667
+Q14175,Hulu Sungai Utara,1643244,Kabupaten Hulu Sungai Utara,-2.45,115.13333
+Q5808,Humbang Hasundutan,9162086,Kabupaten Humbang Hasundutan,2.26551,98.50376
+Q7599,Indragiri Hilir,1643082,Kabupaten Indragiri Hilir,-0.33333,103.16667
+Q7605,Indragiri Hulu,1643081,Kabupaten Indragiri Hulu,-0.55,102.31667
+Q10374,Indramayu,1643077,Kabupaten Indramayu,-6.45,108.16667
+Q27458,Intan Jaya,9846664,Intan Jaya Regency,-3.41016,136.70837
+Q27477,Jayapura,1642655,Kabupaten Jayapura,-3,139.95
+Q11499,Jembrana,1642584,Kabupaten Jembrana,-8.3,114.66667
+Q14602,Jeneponto,1642569,Kabupaten Jeneponto,-5.63333,119.73333
+Q26739,Kaimana,7910905,Kabupaten Kaimana,-3.66093,133.77451
+Q7613,Kampar,6724202,Kabupaten Kampar,0.2344,101.2131
+Q14193,Kapuas,1641398,Kabupaten Kapuas,-2.01667,114.38333
+Q14157,Kapuas Hulu,1641395,Kabupaten Kapuas Hulu,0.81667,112.76667
+Q10616,Karanganyar,6560140,Kabupaten Karanganyar,-7.62806,111.0625
+Q11501,Karangasem,7086954,Kabupaten Karang Asem,-8.3891,115.5393
+Q10375,Karawang,1641133,Kabupaten Karawang,-6.26667,107.41667
+Q10098,Karimun,9821909,Karimun Regency,0.80764,103.41911
+Q5810,Karo,1214929,Kabupaten Karo,3.11667,98.3
+Q4201892,Katingan,1640948,Kabupaten Katingan,-2.06667,113.4
+Q3182322,Kaur,9828030,Kaur Regency,-4.78179,103.36109
+Q14158,Kayong Utara,9828031,North Kayong Regency,-1.43711,110.79781
+Q10617,Kebumen,6376498,Kabupaten Kebumen,-7.63917,109.66056
+Q10618,Kendal,6745680,Kabupaten Kendal,-7.0256,110.1685
+Q10096,Kepulauan Anambas,8740095,Kabupaten Kepulauan Anambas,3,106
+Q6038,Kepulauan Mentawai,8740094,Kabupaten Kepulauan Mentawai,1.98917,99.51889
+Q7630,Kepulauan Meranti,9828033,Kepulauan Meranti Regency,0.97488,102.69539
+Q14619,Kepulauan Selayar,1628015,Selayar Islands Regency,-6.81667,120.8
+Q27848,Kepulauan Yapen,9172045,Kabupaten Kepulauan Yapen,-1.78773,136.27716
+Q14159,Ketapang,1640126,Kabupaten Ketapang,-1.58333,110.5
+Q15358,Kolaka,1639753,Kabupaten Kolaka,-4.08333,121.66667
+Q15960838,Kolaka Timur,9846666,East Kolaka Regency,-4.01807,121.86172
+Q15369,Kolaka Utara,9165705,Kabupaten Kolaka Utara,-3.10452,121.12427
+Q15359,Konawe,9165997,Kabupaten Konawe,-3.91717,122.08823
+Q15730145,Konawe Kepulauan,9827965,Konawe Islands Regency,-4.11656,123.10181
+Q15372,Konawe Selatan,9165998,Kabupaten Konawe Selatan,-4.19191,122.44854
+Q15370,Konawe Utara,9828035,North Konawe Regency,-3.41552,121.99081
+Q14174,Kotabaru,1639532,Kabupaten Kota Baru,-3,116
+Q14393,Kotawaringin Barat,1639476,Kabupaten Kotawaringin Barat,-2.4,111.73333
+Q14191,Kotawaringin Timur,1639475,Kabupaten Kotawaringin Timur,-2.08333,112.75
+Q7626,Kuantan Singingi,9163118,Kabupaten Kuantan Singingi,-0.47532,101.45857
+Q14160,Kubu Raya,9828037,Kubu Raya Regency,0.01637,109.33731
+Q11479,Kulon Progo,7910930,Kabupaten Kulon Progo,-7.645,110.02694
+Q10376,Kuningan,1639093,Kabupaten Kuningan,-7,108.55
+Q14489,Kutai Barat,9828038,West Kutai Regency,-0.59417,115.51575
+Q14473,Kutai Kartanegara,9828039,Kutai Kartanegara Regency,-0.44019,116.98139
+Q14468,Kutai Timur,9846668,East Kutai Regency,1.03769,117.83112
+Q5814,Labuhanbatu,1214801,Labuhan Batu Regency,2.26667,100.1
+Q8153,Lampung Barat,9166059,Kabupaten Lampung Barat,-5.14904,104.19309
+Q8147,Lampung Selatan,7862296,Kabupaten Lampung Selatan,-5.4531,104.9877
+Q8135,Lampung Tengah,1638532,Kabupaten Lampung Tengah,-4.86667,105.26667
+Q8136,Lampung Timur,9165778,Kabupaten Lampung Timur,-5.10273,105.68003
+Q8140,Lampung Utara,1638531,Kabupaten Lampung Utara,-4.81667,104.8
+Q14161,Landak,8740062,Kabupaten Landak,0.42373,109.75917
+Q5833,Langkat,1214728,Kabupaten Langkat,3.71667,98.21667
+Q27594,Lanny Jaya,9828040,Lanny Jaya Regency,-3.91244,138.28766
+Q8031,Lebong,9828041,Lebong Regency,-3.24278,102.3349
+Q14142,Lembata,9165593,Kabupaten Lembata,-8.41396,123.55225
+Q6032,Lima Puluh Kota,8562628,Kabupaten Lima Puluh Kota,-0.0168,100.5872
+Q10099,Lingga,8739779,Kabupaten Lingga,0.2,104.61667
+Q14604,Luwu,6965895,Kabupaten Luwu,-2.5577,121.3242
+Q14597,Luwu Timur,9165704,Kabupaten Luwu Timur,-2.50957,120.3978
+Q14606,Luwu Utara,9165788,Kabupaten Luwu Utara,-2.6,120.25
+Q11091,Madiun,1636929,Kabupaten Madiun,-7.61667,111.65
+Q10621,Magelang,6199035,Kabupaten Magelang,-7.4275,110.16194
+Q10377,Majalengka,1636815,Kabupaten Majalengka,-6.81667,108.28333
+Q4069046,Malaka,9846667,Malaka Regency,-9.5632,124.89481
+Q11095,Malang,1636722,Malang,-7.9797,112.6304
+Q14476,Malinau,8613353,Kabupaten Malinau,2.45,115.68333
+Q18935,Maluku Barat Daya,9828043,Southwest Maluku Regency,-7.8296,126.17386
+Q18849,Maluku Tenggara,1636625,Kabupaten Maluku Tenggara,-5.75,132.73333
+Q15347,Mamasa,7910939,Kabupaten Mamasa,-2.96492,119.30631
+Q27316,Mamberamo Tengah,9828820,Central Mamberamo Regency,-2.46064,138.45245
+Q12488349,Mamuju Tengah,9827966,Mamuju Regency,-2.8212,119.2662
+Q15350,Mamuju Utara,9828890,North Mamuju Regency,-1.51639,119.42139
+Q5837,Mandailing Natal,9161518,Kabupaten Mandailing Natal,0.78378,99.25495
+Q14143,Manggarai,1636422,Kabupaten Manggarai,-8.56667,120.41667
+Q14153,Manggarai Barat,9165681,Kabupaten Manggarai Barat,-8.64484,119.88281
+Q14137,Manggarai Timur,9828927,East Manggarai Regency,-8.55533,120.59761
+Q26748,Manokwari,1636308,Manokwari,-0.86291,134.06402
+Q12488351,Manokwari Selatan,9827967,South Manokwari Regency,-1.0798,133.96729
+Q27679,Mappi,9165710,Kabupaten Mappi,-6.49971,139.34441
+Q14611,Maros,1636028,Kabupaten Maros,-5.05,119.71667
+Q26759,Maybrat,9828956,Maybrat Regency,-1.2155,132.35092
+Q14163,Mempawah,1630788,Kabupaten Mempawah,0.25,109.16667
+Q7379,Merangin,9828959,Merangin Regency,-2.06933,102.13303
+Q27693,Merauke,1635387,Kabupaten Merauke,-7.66667,139.66667
+Q8139,Mesuji,8552411,Mesuji Regency,-4.0439,105.4013
+Q27700,Mimika,9172049,Kabupaten Mimika,-4.54357,136.56555
+Q15836,Minahasa,6755517,Kabupaten Minahasa,1.2537,124.83
+Q15842,Minahasa Selatan,6698251,Kabupaten Minahasa Selatan,1.21291,124.59708
+Q15843,Minahasa Tenggara,9828962,Southeast Minahasa Regency,1.05633,124.7925
+Q15838,Minahasa Utara,9165868,Kabupaten Minahasa Utara,1.4025,124.96
+Q11096,Mojokerto,1635110,Kabupaten Mojokerto,-7.55,112.5
+Q15815,Morowali,9165694,Kabupaten Morowali,-1.89342,121.25473
+Q12488353,Morowali Utara,9827971,North Morowali Regency,-1.7207,121.24649
+Q8119,Muara Enim,8521769,Kabupaten Muara Enim,-4.2327,103.6141
+Q7381,Muaro Jambi,9782270,Kabupaten Muaro Jambi,-1.55214,103.82163
+Q15363,Muna,10929337,Kabupaten Muna Barat,-4.83333,122.48333
+Q19746428,Muna Barat,10929337,Kabupaten Muna Barat,-4.83333,122.48333
+Q8120,Musi Banyuasin,1634644,Kabupaten Musi Banyuasin,-2.41667,103.75
+Q8121,Musi Rawas,1634643,Kabupaten Musi Rawas,-3.08333,103.2
+Q18511812,Musi Rawas Utara,9827972,North Musi Rawas Regency,-2.48533,103.29346
+Q27708,Nabire,7910937,Kabupaten Nabire,-3.54016,135.55511
+Q5746,Nagan Raya,6703019,Kabupaten Nagan Raya,4.16667,96.51667
+Q14144,Nagekeo,9828965,Nagekeo Regency,-8.8721,121.20963
+Q14145,Ngada,1634193,Kabupaten Ngada,-8.66667,121
+Q11108,Ngawi,6410477,Kabupaten Ngawi,-7.47444,111.33444
+Q5841,Nias,8224057,Kabupaten Nias Selatan,0.77,97.75
+Q5909,Nias Barat,9828978,West Nias Regency,1.05966,97.58606
+Q5918,Nias Selatan,8224057,Kabupaten Nias Selatan,0.77,97.75
+Q5853,Nias Utara,9843567,North Nias Regency,1.33037,97.31964
+Q14481,Nunukan,8613360,Kabupaten Nunukan,4.13333,116.7
+Q8122,Ogan Ilir,9163311,Kabupaten Ogan Ilir,-3.43186,104.62727
+Q8125,Ogan Komering Ilir,1633659,Kabupaten Ogan Komering Ilir,-3.36667,105.36667
+Q8126,Ogan Komering Ulu,1633658,Kabupaten Ogan Komering Ulu,-4.13333,104.03333
+Q8127,Ogan Komering Ulu Selatan,9165989,Kabupaten Ogan Komering Ulu Selatan,-4.65728,104.00659
+Q8110,Ogan Komering Ulu Timur,9166051,Kabupaten Ogan Komering Ulu Timur,-3.85679,104.75209
+Q11111,Pacitan,1633438,Kabupaten Pacitan,-8.13333,111.16667
+Q5866,Padang Lawas,9821912,Padang Lawas Regency,1.44684,99.99207
+Q5857,Padang Lawas Utara,9821910,North Padang Lawas Regency,1.46011,99.67346
+Q6042,Padang Pariaman,1633373,Kabupaten Padang Pariaman,-0.6,100.28333
+Q5872,Pakpak Bharat,6725176,Kabupaten Pakpak Bharat,2.56667,98.28333
+Q46483,Pangandaran,9827974,Pangandaran Regency,-7.6673,108.64037
+Q27738,Paniai,1632622,Kabupaten Paniai,-3.9,136.6
+Q15816,Parigi Moutong,9165690,Kabupaten Parigi Moutong,0.3368,120.17841
+Q6048,Pasaman,9163115,Kabupaten Pasaman,0.42503,99.94606
+Q6103,Pasaman Barat,9163116,Kabupaten Pasaman Barat,0.28152,99.51965
+Q14485,Paser,9165729,Kabupaten Penajam Paser Utara,-1.25,116.83333
+Q10622,Pati,1631990,Kabupaten Pati,-6.76667,111.1
+Q16251650,Pegunungan Arfak,9828026,Arfak Mountains Regency,-0.93523,133.89587
+Q27750,Pegunungan Bintang,7910943,Kabupaten Pegunungan Bintang,-4.52167,140.29541
+Q10623,Pekalongan,6792336,Kabupaten Pekalongan,-7.0319,109.624
+Q7641,Pelalawan,9163207,Kabupaten Pelalawan,0.20822,102.18607
+Q14479,Penajam Paser Utara,9165729,Kabupaten Penajam Paser Utara,-1.25,116.83333
+Q8144,Pesawaran,9843606,Pesawaran Regency,-5.4298,105.17899
+Q46481,Pesisir Barat,9828028,West Pesisir Regency,-5.19323,103.93976
+Q6065,Pesisir Selatan,1631300,Kabupaten Pesisir Selatan,-1.58333,100.85
+Q5751,Pidie,8571637,Kabupaten Pidie Jaya,5.15,96.21667
+Q5754,Pidie Jaya,8571637,Kabupaten Pidie Jaya,5.15,96.21667
+Q14615,Pinrang,1631102,Kabupaten Pinrang,-3.61667,119.6
+Q15353,Polewali Mandar,1630933,Kabupaten Polewali Mandar,-3.3,119.16667
+Q15817,Poso,1633034,Palu,-0.90833,119.87083
+Q8145,Pringsewu,9844898,Pringsewu Regency,-5.42211,104.93454
+Q11121,Probolinggo,1630633,Kabupaten Probolinggo,-7.86667,113.31667
+Q14385,Pulang Pisau,8741175,Kabupaten Pulang Pisau,-3.11858,113.8623
+Q27761,Puncak,9172050,Kabupaten Puncak Jaya,-3.67241,137.43896
+Q27771,Puncak Jaya,9172050,Kabupaten Puncak Jaya,-3.67241,137.43896
+Q10625,Purbalingga,6390578,Kabupaten Purbalingga,-7.28417,109.35028
+Q10378,Purwakarta,1630340,Kabupaten Purwakarta,-6.58333,107.45
+Q10674,Purworejo,1630324,Kabupaten Purworejo,-7.7,109.96667
+Q26785,Raja Ampat,1630210,Kabupaten Raja Ampat,-0.5,130
+Q8035,Rejang Lebong,1629764,Kabupaten Rejang Lebong,-3.43333,102.71667
+Q10684,Rembang,1629746,Kabupaten Rembang,-6.78333,111.46667
+Q7759,Rokan Hilir,9844900,Rokan Hilir Regency,2.16599,100.82514
+Q14147,Rote Ndao,9165782,Kabupaten Rote Ndao,-10.73617,123.12054
+Q14148,Sabu Raijua,9844902,Sabu Raijua Regency,-10.56286,121.78894
+Q14164,Sambas,1628978,Kabupaten Sambas,1.41667,109.33333
+Q5888,Samosir,9165769,Kabupaten Toba Samosir,2.39793,99.21678
+Q11127,Sampang,1628896,Kabupaten Sampang,-7.05,113.25
+Q14165,Sanggau,1628799,Kabupaten Sanggau,0.25472,110.45
+Q15839,Sangihe,1628775,Kabupaten Kepulauan Sangihe,3.5,125.55
+Q27784,Sarmi,8531251,Kabupaten Sarmi,-2.41667,139.08333
+Q7383,Sarolangun,1628580,Kabupaten Sarolangun,-2.3,102.65
+Q14166,Sekadau,9166118,Kabupaten Sekadau,0.03485,110.95066
+Q8037,Seluma,9845356,Seluma Regency,-3.96644,102.47429
+Q18942,Seram Bagian Barat,9165987,Kabupaten Seram Bagian Barat,-3.1027,128.42996
+Q16569,Seram Bagian Timur,9165999,Kabupaten Seram Bagian Timur,-3.39851,130.39167
+Q10122,Serang,1627549,Serang,-6.11528,106.15417
+Q5899,Serdang Bedagai,6715130,Kabupaten Serdang Bedagai,3.36667,99.03333
+Q14389,Seruyan,1627443,Kabupaten Seruyan,-2.33333,112.25
+Q7777,Siak,9844901,Siak Regency,0.97453,102.01355
+Q6055,Sijunjung,8541932,Kabupaten Sijunjung,-1.1827,101.6056
+Q5903,Simalungun,1213765,Kabupaten Simalungun,2.9,99
+Q14622,Sinjai,1626894,Kabupaten Sinjai,-5.21667,120.15
+Q14167,Sintang,1626886,Kabupaten Sintang,-0.08333,112.08333
+Q11480,Sleman,6258231,Kabupaten Sleman,-7.68167,110.32333
+Q6058,Solok,1626646,Kabupaten Solok,-0.96667,100.81667
+Q6083,Solok Selatan,9165770,Kabupaten Solok Selatan,-1.23333,101.417
+Q26802,Sorong Selatan,7910924,Kabupaten Sorong Selatan,-1.50495,132.28638
+Q10688,Sragen,6266177,Kabupaten Sragen,-7.41278,110.935
+Q10381,Sukabumi,1626380,Kabupaten Sukabumi,-7.06667,106.7
+Q14386,Sukamara,9166125,Kabupaten Sukamara,-2.62675,111.23681
+Q10692,Sukoharjo,1626271,Kabupaten Sukoharjo,-7.68333,110.83333
+Q14154,Sumba Barat,1626193,Kabupaten Sumba Barat,-9.56667,119.45
+Q14152,Sumba Barat Daya,9845472,Southwest Sumba Regency,-9.56216,119.08905
+Q14134,Sumba Tengah,9845473,Central Sumba Regency,-9.62941,119.61914
+Q14139,Sumba Timur,1626190,Kabupaten Sumba Timur,-9.88333,120.25
+Q10382,Sumedang,1626102,Kabupaten Sumedang,-6.81667,107.98333
+Q14177,Tabalong,1625714,Kabupaten Tabalong,-1.88333,115.5
+Q11505,Tabanan,1625707,Kabupaten Tabanan,-8.43333,115.06667
+Q15844,Talaud,9828034,Talaud Islands Regency,4.31178,126.78085
+Q26810,Tambrauw,9845477,Tambrauw Regency,-0.60515,132.48962
+Q14179,Tanah Bumbu,9780988,Kabupaten Tanah Bumbu,-3.45413,115.70372
+Q6093,Tanah Datar,8594799,Kabupaten Tanah Datar,-0.4555,100.5771
+Q14178,Tanah Laut,1625166,Kabupaten Tanah Laut,-3.88333,114.86667
+Q10123,Tangerang,1625083,Kabupaten Tangerang,-6.2,106.46667
+Q8149,Tanggamus,9845482,Tanggamus Regency,-5.38508,104.62349
+Q7388,Tanjung Jabung Barat,9845496,West Tanjung Jabung Regency,-1.1544,103.24402
+Q7384,Tanjung Jabung Timur,9845498,East Tanjung Jabung Regency,-1.13198,103.61755
+Q5914,Tapanuli Selatan,1213519,Kabupaten Tapanuli Selatan,1.51667,99.25
+Q5800,Tapanuli Tengah,1213518,Kabupaten Tapanuli Tengah,1.9,98.66667
+Q5863,Tapanuli Utara,6726149,Kabupaten Tapanuli Utara,2.0028,99.0707
+Q14180,Tapin,1624750,Kabupaten Tapin,-2.91667,115.03333
+Q10385,Tasikmalaya,1624646,Kabupaten Tasikmalaya,-7.5,108.13333
+Q7389,Tebo,9845500,Tebo Regency,-1.45576,102.37473
+Q10705,Tegal,1624493,Kabupaten Tegal,-7.03333,109.16667
+Q26819,Teluk Bintuni,9166002,Kabupaten Teluk Bintuni,-1.88037,133.33105
+Q10979,Temanggung,1624237,Kabupaten Temanggung,-7.25,110.11667
+Q14151,Timor Tengah Selatan,1623840,Kabupaten Timor Tengah Selatan,-9.83333,124.4
+Q14146,Timor Tengah Utara,1623839,Kabupaten Timor Tengah Utara,-9.33136,124.51904
+Q5911,Toba Samosir,9165769,Kabupaten Toba Samosir,2.39793,99.21678
+Q15823,Tojo Una Una,9165688,Kabupaten Tojo Una-Una,-1.2036,121.48201
+Q27802,Tolikara,9846653,Tolikara Regency,-3.42661,137.41699
+Q15824,Tolitoli,9846654,Tolitoli Regency,1.30862,120.88643
+Q14609,Toraja Utara,9846656,North Toraja Regency,-2.92738,119.79218
+Q11141,Tuban,1623178,Kabupaten Tuban,-6.96667,111.9
+Q8151,Tulang Bawang,9846658,West Tulang Bawang Regency,-4.43975,105.0444
+Q8154,Tulang Bawang Barat,9846658,West Tulang Bawang Regency,-4.43975,105.0444
+Q14633,Wajo,1622267,Kabupaten Wajo,-4,120.16667
+Q15375,Wakatobi,9165996,Kabupaten Wakatobi,-5.31934,123.5948
+Q27815,Waropen,1621238,Kabupaten Waropen,-2.286,137.01837
+Q8152,Way Kanan,9163828,Kabupaten Way Kanan,-4.44705,104.52753
+Q10981,Wonogiri,1621430,Kabupaten Wonogiri,-7.91667,111
+Q27825,Yahukimo,11104752,Kabupaten Yahukimo,-4.46667,139.58333
+Q27838,Yalimo,9846662,Yalimo Regency,-3.86037,138.47305
