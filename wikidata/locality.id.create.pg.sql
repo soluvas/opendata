@@ -4,6 +4,9 @@ CREATE TABLE public.locality (
   name VARCHAR(255) NOT NULL,
   geonamesId VARCHAR(255) NULL,
   place VARCHAR(255) NOT NULL,
+  pointLat DOUBLE PRECISION NULL,
+  pointLon DOUBLE PRECISION NULL,
+  kemendagriCode VARCHAR(255) NULL,
   stateId VARCHAR(255) NOT NULL,
   stateName VARCHAR(255) NOT NULL,
   stateIso VARCHAR(255) NOT NULL,
@@ -14,6 +17,7 @@ CREATE TABLE public.locality (
 CREATE INDEX ON public.locality (name);
 CREATE INDEX ON public.locality (geonamesId);
 CREATE INDEX ON public.locality (place);
+CREATE INDEX ON public.locality (kemendagriCode);
 CREATE INDEX ON public.locality (stateId);
 CREATE INDEX ON public.locality (stateIso);
 CREATE INDEX ON public.locality (countryId);
