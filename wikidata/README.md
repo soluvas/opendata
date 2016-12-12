@@ -21,11 +21,16 @@ dan menambahkan informasi dari GeoNames: GeoNames ID dan lokasi, menghasilkan fi
 
 [`wbcreateclaim.py`](wbcreateclaim.py) merupakan script umum untuk menambahkan claim baru.
 
-Dengan mengolah file [`geonames_match-ID.csv`](geonames_match-ID.csv) di LibreOffice calc untuk meng-generate command line,
+Dengan mengolah file [`geonames_match-ID.csv`](geonames_match-ID.csv) di LibreOffice Calc untuk meng-generate command line,
 maka dihasilkan mass edit scripts:
 
 * [oneoff/fix_geonames_2016-12-12.cmd](oneoff/fix_geonames_2016-12-12.cmd)
 * [oneoff/fix_point_2016-12-12.cmd](oneoff/fix_point_2016-12-12.cmd) 
+
+Per 12 Desember 2016 awal hari sebelum mass edit script ini dijalankan, dari 514 kota dan kabupaten, yang memiliki GeoNames ID
+berjumlah 209 entity, dan yang memiliki koordinat GPS berjumlah 370 entity.
+
+Setelah script ini dijalankan, diharapkan seluruh 514 entities tersebut memiliki GeoNames ID maupun koordinat GPS. 
 
 ## wikidata.org Wikibase API
 
