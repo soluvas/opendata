@@ -32,6 +32,8 @@ berjumlah 209 entity, dan yang memiliki koordinat GPS berjumlah 370 entity.
 
 Setelah script ini dijalankan, diharapkan seluruh 514 entities tersebut memiliki GeoNames ID maupun koordinat GPS. 
 
+Judul draft paper: Automatic submissions for Wikidata information of all cities and regencies in Indonesia with GeoNames IDs and GPS coordinates 
+
 ## wikidata.org Wikibase API
 
 ### action=wbgetclaims
