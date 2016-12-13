@@ -309,3 +309,9 @@ python wbcreateclaim.py Q8152 P625 "{\"latitude\":-4.44705,\"longitude\":104.527
 python wbcreateclaim.py Q10981 P625 "{\"latitude\":-7.91667,\"longitude\":111,\"globe\": \"http://www.wikidata.org/entity/Q2\", \"precision\":0.000001}"
 python wbcreateclaim.py Q27825 P625 "{\"latitude\":-4.46667,\"longitude\":139.58333,\"globe\": \"http://www.wikidata.org/entity/Q2\", \"precision\":0.000001}"
 python wbcreateclaim.py Q27838 P625 "{\"latitude\":-3.86037,\"longitude\":138.47305,\"globe\": \"http://www.wikidata.org/entity/Q2\", \"precision\":0.000001}"
+
+REM MANUAL
+REM 1. LabuhanBatu Selatan
+REM 2. LabuhanBatu Utara
+REM 3. Melawi
+REM 4. Sragen

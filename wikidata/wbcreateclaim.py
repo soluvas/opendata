@@ -5,6 +5,7 @@ from requests_oauthlib import OAuth1
 from config import *
 import sys
 import json
+import time
 
 entityId = sys.argv[1]
 propId = sys.argv[2]
@@ -31,8 +32,11 @@ else:
     csrftoken = json.loads(r.text)['query']['tokens']['csrftoken']
     print('csrftoken: %s' % csrftoken)
 
-    params = {'format': 'json', 'action': 'wbcreateclaim', 'token': csrftoken,
+    params = {'format': 'json', 'action': 'wbcreateclaim', 'token': csrftoken, 'bot': 'true',
         'entity': entityId, 'snaktype': 'value', 'property': propId, 'value': value}
     r = requests.post(url='https://www.wikidata.org/w/api.php', auth=auth, data=params)
     print(r)
     print(r.text)
+
+    print('Waiting a moment to avoid throttling...')
+    time.sleep(5)

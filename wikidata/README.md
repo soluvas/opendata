@@ -27,12 +27,51 @@ maka dihasilkan mass edit scripts:
 * [oneoff/fix_geonames_2016-12-12.cmd](oneoff/fix_geonames_2016-12-12.cmd)
 * [oneoff/fix_point_2016-12-12.cmd](oneoff/fix_point_2016-12-12.cmd) 
 
-Per 12 Desember 2016 awal hari sebelum mass edit script ini dijalankan, dari 514 kota dan kabupaten, yang memiliki GeoNames ID
+Sebelum 12 Desember 2016, sebelum mass edit script ini dijalankan, dari 514 kota dan kabupaten, yang memiliki GeoNames ID
 berjumlah 209 entity, dan yang memiliki koordinat GPS berjumlah 370 entity.
 
 Setelah script ini dijalankan, diharapkan seluruh 514 entities tersebut memiliki GeoNames ID maupun koordinat GPS. 
 
 Judul draft paper: Automatic submissions for Wikidata information of all cities and regencies in Indonesia with GeoNames IDs and GPS coordinates 
+
+[oneoff/fix_geonames_2016-12-12.cmd](oneoff/fix_geonames_2016-12-12.cmd) dimulai pukul 22:42:50 dan berhenti sementara setelah 39x claim, pukul 22.45, karena dianggap abuse.
+Dilanjut lagi 22.49, kali ini scriptnya dikasih sleep 10 detik. Throttle dari wikidata kira-kira max 30 request per 3 menit.
+
+Name mismatch in GeoNames:
+
+1. Labuhan Batu Selatan/Utara (BPS) -> Labuhanbatu Selatan/Utara (Kemendagri)
+2. (Kabupaten) Mahakam Hulu (BPS) -> Mahakam Ulu (Kemendagri)
+3. (Kabupaten) Mukomuko (BPS) -> Muko Muko (Kemendagri)
+
+Contoh sukses GeoNames ID:
+
+    [py27] C:\Users\ceefour\git\opendata\wikidata>python wbcreateclaim.py Q10610 P1566 \"1648064\"
+    Checking existing claim for Q10610 P1566 ...
+    <Response [200]>
+    Adding Q10610 P1566 "1648064", getting csrftoken...
+    csrftoken: b427c3d6d7fc821a0ec4568d56200cab584ec727+\
+    <Response [200]>
+    {"pageinfo":{"lastrevid":415909194},"success":1,"claim":{"mainsnak":{"snaktype":"value","property":"P1566","datavalue":{"value":"1648064","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q10610$04A46DB8-A7D8-4345-B485-64544D477328","rank":"normal"}}
+
+Contoh throttled:
+
+    [py27] C:\Users\ceefour\git\opendata\wikidata>python wbcreateclaim.py Q14596 P1566 \"1647738\"
+    Checking existing claim for Q14596 P1566 ...
+    <Response [200]>
+    Adding Q14596 P1566 "1647738", getting csrftoken...
+    csrftoken: e4df0b77fd8a94adb0bd547b5005458c584ec72b+\
+    <Response [200]>
+    {"servedby":"mw1222","error":{"code":"failed-save","info":"As an anti-abuse measure, you are limited from performing this action too many times in a short space of time, and you have exceeded this limit.\nPlease try again in a few minutes.","messages":[{"name":"actionthrottledtext","parameters":[],"html":{"*":"As an anti-abuse measure, you are limited from performing this action too many times in a short space of time, and you have exceeded this limit.\nPlease try again in a few minutes."}}],"*":"See https://www.wikidata.org/w/api.php for API usage"}}
+
+Contoh dianggap abusive:
+
+    [py27] C:\Users\ceefour\git\opendata\wikidata>python wbcreateclaim.py Q14596 P1566 \"1647738\"   & timeout 10
+    Checking existing claim for Q14596 P1566 ...
+    <Response [200]>
+    Adding Q14596 P1566 "1647738", getting csrftoken...
+    csrftoken: e590dcad0fc220e7b7c85689f3996441584ecb2b+\
+    <Response [200]>
+    {"servedby":"mw1283","error":{"code":"failed-save","info":"'''Warning:''' This action has been automatically identified as harmful.\nUnconstructive actions will be quickly reverted,\nand egregious or repeated unconstructive editing will result in your account or IP address being blocked.\nIf you believe this action to be constructive, you may submit it again to confirm it.\nA brief description of the abuse rule which your action matched is: Possible vandalism by adding nonsense","messages":[{"name":"abusefilter-warning","parameters":["Possible vandalism by adding nonsense",18],"html":{"*":"<b>Warning:</b> This action has been automatically identified as harmful.\nUnconstructive actions will be quickly reverted,\nand egregious or repeated unconstructive editing will result in your account or IP address being blocked.\nIf you believe this action to be constructive, you may submit it again to confirm it.\nA brief description of the abuse rule which your action matched is: Possible vandalism by adding nonsense"}}],"*":"See https://www.wikidata.org/w/api.php for API usage"}}
 
 ## wikidata.org Wikibase API
 
