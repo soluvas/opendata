@@ -13,11 +13,11 @@ fn_json = 'country.json'
 s = sparql.Service('https://query.wikidata.org/sparql', "utf-8", "GET")
 #  wdt:P36 ?capital .
 # cannot include the capital because some countries like Sri Lanka have multiple capitals over time
-q = '''SELECT ?country ?countryLabel ?geonamesId ?countryIso ?countryIso3 WHERE {
+q = '''SELECT ?country ?countryLabel ?geonamesId ?iso ?iso3 WHERE {
   ?country wdt:P31 wd:Q6256 ;
     wdt:P1566 ?geonamesId ;
-    wdt:P297 ?countryIso ;
-    wdt:P298 ?countryIso3 .
+    wdt:P297 ?iso ;
+    wdt:P298 ?iso3 .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en", "id". }
 }
 ORDER BY ?countryLabel
@@ -28,7 +28,7 @@ csvs = []
 print('Saving %s ...' % fn_csv)
 with open(fn_csv, 'wb') as csvf:
   csvw = csv.writer(csvf, encoding='utf-8')
-  csvw.writerow(['id', 'name', 'geonamesId', 'countryIso', 'countryIso3'])
+  csvw.writerow(['id', 'name', 'geonamesId', 'iso', 'iso3'])
   for row in result.fetchall():
       #print(row[0]) 
       #print(row[1])
@@ -39,8 +39,8 @@ with open(fn_csv, 'wb') as csvf:
         ('id', countryId),
         ('name', unicode(row[1])),
         ('geonamesId', long(str(row[2]))),
-        ('countryIso', unicode(row[3])),
-        ('countryIso3', unicode(row[4])),
+        ('iso', unicode(row[3])),
+        ('iso3', unicode(row[4])),
         #('capitalId', capitalId),
         #('capitalName', unicode(row[6])),
       ])
