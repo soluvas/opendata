@@ -1,0 +1,541 @@
+[
+    {
+      "placemark_id": 80734,
+      "name": "POLISI",
+      "address": "KAMAL RAYA JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.11799,
+      "lng": 106.718468
+    },
+    {
+      "placemark_id": 80795,
+      "name": "POLISI KESATUAN PELAKSANA PENGAMANAN PELABUHAN TANJUNG PRIOK",
+      "address": "PASOSO JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.10765,
+      "lng": 106.881866
+    },
+    {
+      "placemark_id": 80822,
+      "name": "POLISI PERAIRAN",
+      "address": "INDUSTRI JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.11496,
+      "lng": 106.86956
+    },
+    {
+      "placemark_id": 80840,
+      "name": "POLISI RESOR JAKARTA BARAT",
+      "address": "LETNAN JENDERAL S. PARMAN 31 JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.195,
+      "lng": 106.797798
+    },
+    {
+      "placemark_id": 80844,
+      "name": "POLISI RESOR JAKARTA UTARA",
+      "address": "LAKSAMANA YOS SUDARSO JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.1167,
+      "lng": 106.893784
+    },
+    {
+      "placemark_id": 80951,
+      "name": "POLISI SEKTOR CAKUNG",
+      "address": "BEKASI RAYA JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.18429,
+      "lng": 106.940643
+    },
+    {
+      "placemark_id": 80956,
+      "name": "POLISI SEKTOR CENGKARENG",
+      "address": "LINGKAR LUAR CENGKARENG JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.14603,
+      "lng": 106.729042
+    },
+    {
+      "placemark_id": 80960,
+      "name": "POLISI SEKTOR CILINCING",
+      "address": "SUNGAI LANDAK JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.10237,
+      "lng": 106.939247
+    },
+    {
+      "placemark_id": 80962,
+      "name": "POLISI SEKTOR CIPAYUNG",
+      "address": "BAMBU WULUNG JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.31849,
+      "lng": 106.905617
+    },
+    {
+      "placemark_id": 80975,
+      "name": "POLISI SEKTOR DUREN SAWIT",
+      "address": "KALI MALANG JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.24762,
+      "lng": 106.917419
+    },
+    {
+      "placemark_id": 80979,
+      "name": "POLISI SEKTOR GEMPOL",
+      "address": "BAMBU APUS JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.31461,
+      "lng": 106.89418
+    },
+    {
+      "placemark_id": 80988,
+      "name": "POLISI SEKTOR JAGAKARSA",
+      "address": "TIMBUL JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.35089,
+      "lng": 106.80793
+    },
+    {
+      "placemark_id": 80993,
+      "name": "POLISI SEKTOR JATINEGARA",
+      "address": "OTTO ISKANDARDINATA JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.24382,
+      "lng": 106.86824
+    },
+    {
+      "placemark_id": 81005,
+      "name": "POLISI SEKTOR KARET",
+      "address": "KIAI HAJI MAS MANSYUR JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.20275,
+      "lng": 106.816162
+    },
+    {
+      "placemark_id": 81009,
+      "name": "POLISI SEKTOR KEBAYORAN LAMA",
+      "address": "CIPUTAT RAYA JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.25,
+      "lng": 106.778351
+    },
+    {
+      "placemark_id": 81013,
+      "name": "POLISI SEKTOR KEMAYORAN",
+      "address": "CASA JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.15934,
+      "lng": 106.853241
+    },
+    {
+      "placemark_id": 81016,
+      "name": "POLISI SEKTOR KEPULAUAN SERIBU SELATAN",
+      "address": "PULAU TIDUNG KECAMATAN KEPULAUAN SERIBU SELATAN KEPULAUAN SERIBU DKI JAKARTA",
+      "lat": -5.8023,
+      "lng": 106.509018
+    },
+    {
+      "placemark_id": 81018,
+      "name": "POLISI SEKTOR KOJA",
+      "address": "BHAYANGKARA TUGU JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.12192,
+      "lng": 106.914421
+    },
+    {
+      "placemark_id": 81034,
+      "name": "POLISI SEKTOR KRAMATJATI",
+      "address": "INPRES JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.29004,
+      "lng": 106.86927
+    },
+    {
+      "placemark_id": 81065,
+      "name": "POLISI SEKTOR MAMPANG",
+      "address": "KAPTEN PIERRE TENDEAN 9B JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.2406,
+      "lng": 106.826698
+    },
+    {
+      "placemark_id": 81084,
+      "name": "POLISI SEKTOR METRO TEBET",
+      "address": "PROFESOR DOKTOR SUPOMO JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.23135,
+      "lng": 106.846481
+    },
+    {
+      "placemark_id": 81108,
+      "name": "POLISI SEKTOR PALMERAH",
+      "address": "PALMERAH BARAT JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.20773,
+      "lng": 106.789879
+    },
+    {
+      "placemark_id": 81116,
+      "name": "POLISI SEKTOR PASAR MINGGU",
+      "address": "RAGUNAN JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.28564,
+      "lng": 106.842018
+    },
+    {
+      "placemark_id": 81117,
+      "name": "POLISI SEKTOR PASAR REBO",
+      "address": "BOGOR RAYA JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.33664,
+      "lng": 106.8675
+    },
+    {
+      "placemark_id": 81130,
+      "name": "POLISI SEKTOR PENJARINGAN",
+      "address": "PLUIT SELATAN RAYA JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.12505,
+      "lng": 106.800911
+    },
+    {
+      "placemark_id": 81137,
+      "name": "POLISI SEKTOR PRAMUKA",
+      "address": "JENDERAL AHMAD YANI JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.19253,
+      "lng": 106.87471
+    },
+    {
+      "placemark_id": 81260,
+      "name": "POLISI SUB SEKTOR KAWASAN MUARA ANGKE",
+      "address": "DERMAGA 1 JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.10857,
+      "lng": 106.773529
+    },
+    {
+      "placemark_id": 81261,
+      "name": "POLISI SUB SEKTOR KEPULAUAN SERIBU SELATAN",
+      "address": "PULAU TIDUNG KEPULAUAN SERIBU DKI JAKARTA",
+      "lat": -5.79891,
+      "lng": 106.498741
+    },
+    {
+      "placemark_id": 81271,
+      "name": "POLISI SUBSEKTOR PEJATEN BARAT",
+      "address": "KEMANG TIMUR JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.27158,
+      "lng": 106.822968
+    },
+    {
+      "placemark_id": 81272,
+      "name": "POLISI SUBSEKTOR PETUKANGAN SELATAN",
+      "address": "CILEDUG RAYA JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.23693,
+      "lng": 106.758118
+    },
+    {
+      "placemark_id": 81390,
+      "name": "POS POLISI ANCOL",
+      "address": "TAMAN IMPIAN JAYA ANCOL JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.12735,
+      "lng": 106.842903
+    },
+    {
+      "placemark_id": 81403,
+      "name": "POS POLISI BENDUNGAN HILIR",
+      "address": "BENDUNGAN HILIR JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.2144,
+      "lng": 106.814941
+    },
+    {
+      "placemark_id": 81405,
+      "name": "POS POLISI BINTANG MAS",
+      "address": "R.E. MARTADINATA JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.13074,
+      "lng": 106.830261
+    },
+    {
+      "placemark_id": 81409,
+      "name": "POS POLISI BONA INDAH",
+      "address": "BONA INDAH 8 JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.30057,
+      "lng": 106.782219
+    },
+    {
+      "placemark_id": 81417,
+      "name": "POS POLISI CASA GOYA",
+      "address": "KEBON JERUK RAYA JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.19899,
+      "lng": 106.781059
+    },
+    {
+      "placemark_id": 81423,
+      "name": "POS POLISI CITRALAND",
+      "address": "LETNAN JENDERAL S. PARMAN JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.16739,
+      "lng": 106.787521
+    },
+    {
+      "placemark_id": 81444,
+      "name": "POS POLISI GEDONG",
+      "address": "BOGOR RAYA JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.30568,
+      "lng": 106.864998
+    },
+    {
+      "placemark_id": 81447,
+      "name": "POS POLISI GLODOK",
+      "address": "PINTU BESAR SELATAN JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.14239,
+      "lng": 106.815102
+    },
+    {
+      "placemark_id": 81458,
+      "name": "POS POLISI JELAMBAR 1",
+      "address": "PANGERAN TUBAGUS ANGKE JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.14859,
+      "lng": 106.773682
+    },
+    {
+      "placemark_id": 81459,
+      "name": "POS POLISI JELAMBAR 2",
+      "address": "HADIAH UTAMA JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.15861,
+      "lng": 106.782066
+    },
+    {
+      "placemark_id": 81460,
+      "name": "POS POLISI JEMBATAN BESI",
+      "address": "PROFESOR DOKTOR LATUMETEN JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.15155,
+      "lng": 106.79496
+    },
+    {
+      "placemark_id": 81480,
+      "name": "POS POLISI KELAPA GADING BARAT",
+      "address": "PERINTIS KEMERDEKAAN JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.17211,
+      "lng": 106.889793
+    },
+    {
+      "placemark_id": 81488,
+      "name": "POS POLISI KIAI TAPA",
+      "address": "KIAI TAPA JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.16644,
+      "lng": 106.791382
+    },
+    {
+      "placemark_id": 81492,
+      "name": "POS POLISI KOPI",
+      "address": "KALI BESAR TIMUR 3 JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.13402,
+      "lng": 106.811119
+    },
+    {
+      "placemark_id": 81494,
+      "name": "POS POLISI KUNINGAN",
+      "address": "JENDERAL GATOT SUBROTO JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.23854,
+      "lng": 106.829391
+    },
+    {
+      "placemark_id": 81508,
+      "name": "POS POLISI LATUHARHARI",
+      "address": "LATUHARHARI JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.20449,
+      "lng": 106.834641
+    },
+    {
+      "placemark_id": 81521,
+      "name": "POS POLISI MANGGARAI",
+      "address": "MANGGARAI UTARA 1 JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.20987,
+      "lng": 106.850632
+    },
+    {
+      "placemark_id": 81524,
+      "name": "POS POLISI MARUNDA",
+      "address": "JAYAPURA JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.09921,
+      "lng": 106.950371
+    },
+    {
+      "placemark_id": 81525,
+      "name": "POS POLISI MATRAMAN DALAM",
+      "address": "MATRAMAN DALAM JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.20193,
+      "lng": 106.850967
+    },
+    {
+      "placemark_id": 81535,
+      "name": "POS POLISI MONAS TIMUR",
+      "address": "SILANG MERDEKA TENGGARA JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.17841,
+      "lng": 106.830673
+    },
+    {
+      "placemark_id": 81547,
+      "name": "POS POLISI PALMERAH",
+      "address": "GELORA 1 JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.20953,
+      "lng": 106.796829
+    },
+    {
+      "placemark_id": 81560,
+      "name": "POS POLISI PASAR KEBAYORAN LAMA",
+      "address": "CIPUTAT RAYA JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.23768,
+      "lng": 106.780762
+    },
+    {
+      "placemark_id": 81562,
+      "name": "POS POLISI PASAR SENEN",
+      "address": "STASIUN SENEN JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.17249,
+      "lng": 106.843201
+    },
+    {
+      "placemark_id": 81565,
+      "name": "POS POLISI PECENONGAN",
+      "address": "KIAI HAJI SAMANHUDI JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.16256,
+      "lng": 106.828438
+    },
+    {
+      "placemark_id": 81567,
+      "name": "POS POLISI PEJAGALAN",
+      "address": "PEJAGALAN JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.13612,
+      "lng": 106.807022
+    },
+    {
+      "placemark_id": 81568,
+      "name": "POS POLISI PEJATEN TIMUR",
+      "address": "PASAR MINGGU RAYA JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.28152,
+      "lng": 106.845032
+    },
+    {
+      "placemark_id": 81569,
+      "name": "POS POLISI PEJOMPONGAN",
+      "address": "PEJOMPONGAN JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.20425,
+      "lng": 106.801491
+    },
+    {
+      "placemark_id": 81576,
+      "name": "POS POLISI PERTIGAAN CAKUNG",
+      "address": "CILINCING JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.1081,
+      "lng": 106.922432
+    },
+    {
+      "placemark_id": 81582,
+      "name": "POS POLISI PIK (PANTAI INDAH KAPUK)",
+      "address": "PANTAI INDAH TIMUR JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.12913,
+      "lng": 106.753761
+    },
+    {
+      "placemark_id": 81587,
+      "name": "POS POLISI PJR TOL SEDYATMO",
+      "address": "TOLL PROFESOR SEDYATMO JAKARTA BARAT DKI JAKARTA",
+      "lat": -6.10617,
+      "lng": 106.695229
+    },
+    {
+      "placemark_id": 81590,
+      "name": "POS POLISI PLUIT TIMUR",
+      "address": "PLUIT TIMUR RAYA JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.11235,
+      "lng": 106.794899
+    },
+    {
+      "placemark_id": 81591,
+      "name": "POS POLISI PLUMPANG",
+      "address": "PLUMPANG RAYA JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.1302,
+      "lng": 106.898109
+    },
+    {
+      "placemark_id": 81592,
+      "name": "POS POLISI PODOMORO",
+      "address": "DANAU SUNTER SELATAN JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.14882,
+      "lng": 106.859467
+    },
+    {
+      "placemark_id": 81596,
+      "name": "POS POLISI PONDOK INDAH",
+      "address": "METRO PONDOK INDAH JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.27339,
+      "lng": 106.782257
+    },
+    {
+      "placemark_id": 81598,
+      "name": "POS POLISI PONDOK KOPI",
+      "address": "PONDOK KOPI JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.22071,
+      "lng": 106.940971
+    },
+    {
+      "placemark_id": 81599,
+      "name": "POS POLISI PONDOK RANGGON",
+      "address": "SAPI PERAH JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.35602,
+      "lng": 106.906029
+    },
+    {
+      "placemark_id": 81602,
+      "name": "POS POLISI PRAMUKA",
+      "address": "PEMUDA JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.19247,
+      "lng": 106.875031
+    },
+    {
+      "placemark_id": 81604,
+      "name": "POS POLISI PULAU UNTUNG JAWA",
+      "address": "PULAU UNTUNG JAWA KEPULAUAN SERIBU DKI JAKARTA",
+      "lat": -5.97794,
+      "lng": 106.705002
+    },
+    {
+      "placemark_id": 81608,
+      "name": "POS POLISI RAJAWALI",
+      "address": "INDUSTRI JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.14878,
+      "lng": 106.838501
+    },
+    {
+      "placemark_id": 81610,
+      "name": "POS POLISI RAWABENING",
+      "address": "BEKASI BARAT RAYA JAKARTA TIMUR DKI JAKARTA",
+      "lat": -6.2156,
+      "lng": 106.869911
+    },
+    {
+      "placemark_id": 81621,
+      "name": "POS POLISI SARINAH",
+      "address": "SUNDA JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.18835,
+      "lng": 106.824272
+    },
+    {
+      "placemark_id": 81630,
+      "name": "POS POLISI SENEN",
+      "address": "KRAMAT BUNDER JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.17869,
+      "lng": 106.84243
+    },
+    {
+      "placemark_id": 81647,
+      "name": "POS POLISI SUBSEKTOR PERMAI",
+      "address": "BINTARO PERMAI JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.25601,
+      "lng": 106.760849
+    },
+    {
+      "placemark_id": 81650,
+      "name": "POS POLISI SUMUR BATU",
+      "address": "LETNAN JENDERAL SUPRAPTO JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.16803,
+      "lng": 106.871178
+    },
+    {
+      "placemark_id": 81658,
+      "name": "POS POLISI TAMAN SUROPATI",
+      "address": "PANGERAN DIPONEGORO JAKARTA PUSAT DKI JAKARTA",
+      "lat": -6.2,
+      "lng": 106.832901
+    },
+    {
+      "placemark_id": 81679,
+      "name": "POS POLISI TMP KALIBATA",
+      "address": "PAHLAWAN KALIBATA JAKARTA SELATAN DKI JAKARTA",
+      "lat": -6.25545,
+      "lng": 106.845192
+    },
+    {
+      "placemark_id": 81694,
+      "name": "POS POLISI VOLKER",
+      "address": "R.E. MARTADINATA JAKARTA UTARA DKI JAKARTA",
+      "lat": -6.11876,
+      "lng": 106.867882
+    }
+  ]
